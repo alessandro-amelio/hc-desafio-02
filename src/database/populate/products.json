@@ -1,0 +1,15 @@
+[{
+        "title": "Bolsa Notebook",
+        "price": 109.95,
+        "description": "Bolsa oldschool para notebook de até 15'",
+        "category": "acessorios",
+        "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+    },
+    {
+        "title": "Camiseta T-Shirt",
+        "price": 52.99,
+        "description": "Slim-fitting style",
+        "category": "acessorios",
+        "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+    }
+]
