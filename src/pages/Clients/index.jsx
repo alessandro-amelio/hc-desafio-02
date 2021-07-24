@@ -8,7 +8,7 @@ import {
   Label,
   ModifiedButton,
 } from "../../assets/components";
-import { Container, Description, Title } from "../Home/styles";
+import { Container, Title } from "../Home/styles";
 
 import populate_products from '../../database/populate/clients.json'
 
@@ -26,6 +26,7 @@ export default function Clients() {
   var obj_base = {};
   local_keys_obj.map((a) => {
     obj_base[a] = '';   
+    return false;  
   });
 
   // state
