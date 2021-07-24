@@ -7,4 +7,4 @@ Gestão de Cadastros
 - Código fonte no github com o arquivo README detalhando as funcionalidades da programação
 
 # Deploy
-https://alessandro-amelio-hc-desafio-01.netlify.app/
+https://alessandro-amelio-hc-desafio-02.netlify.app/
